@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Account",
+            "request": "launch",
+            "mainClass": "eight_account.Account",
+            "projectName": "java_exam_2019_11_77d47e5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Seven_Average",
+            "request": "launch",
+            "mainClass": "seven_average.Seven_Average",
+            "projectName": "java_exam_2019_11_77d47e5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Six_ArryList_keybord",
+            "request": "launch",
+            "mainClass": "six_ArryListSum_keybord.Six_ArryList_keybord",
+            "projectName": "java_exam_2019_11_77d47e5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Five_ArryListSum",
+            "request": "launch",
+            "mainClass": "five_ArryListSum.Five_ArryListSum",
+            "projectName": "java_exam_2019_11_77d47e5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - myPrime",
+            "request": "launch",
+            "mainClass": "four_prime.myPrime",
+            "projectName": "java_exam_2019_11_77d47e5d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiplicationTable",
+            "request": "launch",
+            "mainClass": "three_MultiplicationTable.MultiplicationTable",
+            "projectName": "java_exam_2019_11_77d47e5d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-one_random<java_exam_2019_11_77d47e5d>",
+            "request": "launch",
+            "mainClass": "one_random.one_random",
+            "projectName": "java_exam_2019_11_77d47e5d"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java_exam_2019_11_77d47e5d>",
+            "request": "launch",
+            "mainClass": "two_triangle.Main",
+            "projectName": "java_exam_2019_11_77d47e5d"
+        }
+    ]
+}
